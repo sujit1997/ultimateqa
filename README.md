@@ -34,12 +34,10 @@ End-to-end workflows to ensure seamless user experience.
 
 **Requirements**
 
-_Java 8+
+**_Java 8+_**
 
-Selenium WebDriver
+**_Selenium WebDriver_**
 
-TestNG
+**_TestNG_**
 
-Maven (for dependency management)
-
-Browser Drivers (e.g., ChromeDriver, GeckoDriver)_
+**_Maven (for dependency management)_**
