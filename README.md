@@ -3,7 +3,7 @@ This repository automates testing of the Ultimate QA website using Java, Seleniu
 The project is developed using Java, Selenium WebDriver, and TestNG, offering a robust framework for testing web applications.
 
 
-**Project Features**
+****Project Features****
 
 **Automated Test Suite:** A collection of test cases covering key functionalities of the Ultimate QA website.
 
@@ -19,7 +19,7 @@ The project is developed using Java, Selenium WebDriver, and TestNG, offering a 
 
 **Custom Reporting:** Generates detailed reports for executed test cases.
 
-**Key Functionalities Tested**
+****Key Functionalities Tested****
 
 Navigation and accessibility of various web pages.
 
